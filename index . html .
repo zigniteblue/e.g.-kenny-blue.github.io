@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="eng">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -9,12 +9,12 @@
             font-family: Arial,  sans-serif;
             max-width: 700px;
             margin: 50px auto;
-            padding: o 20px;
+            padding: 0 20px;
             line-height: 1.6;
             color: #333;
         }
         h1 {
-            border-bottom: 2 px solid #0366d6;
+            border-bottom: 2px solid #0366d6;
             padding-bottom: 10px;
         }
         a {
@@ -31,13 +31,13 @@
     <div class="section">
         <h2>About Me</h2>
         <p>I'm a student currently learning [programming].
-           I'm intrested in [web management].</p>
+           I'm interested in [web management].</p>
     </div>
 
     <div class="section">
-        <h2>what I'm Learning</h2>
+        <h2>What I'm Learning</h2>
         <ul>
-            <li>Git and Gihub</li>
+            <li>Git and GiHub</li>
             <li>[JavaScript,C++,Assembly]</li>
         </ul>
     </div>
@@ -45,7 +45,7 @@
     <div class="section">
         <h2>links</h2>
         <ul>
-            <li><a href="https://github.com/zigniteblue">My ithub Profile</a></li>
+            <li><a href="https://github.com/zigniteblue">My Github Profile</a></li>
         </ul>
     </div>
 </body>
