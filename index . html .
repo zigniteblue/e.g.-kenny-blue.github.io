@@ -13,12 +13,12 @@
             line-height: 1.6;
             color: #333;
         }
-        h1 {
-            border-bottom: 2px solid #0366d6;
-            padding-bottom: 10px;
+        h1  {
+             border-bottom: 2px solid #0366d6;
+             padding-bottom: 10px;
         }
         a {
-            color: #0366d6;
+             color: #0366d6;
         }
         . section {
              margin-bottom: 30px;
@@ -26,7 +26,7 @@
     </style>
 </head>
 <body>
-    <hi>Welcome! I'm [kennyblue]</hi>
+    <h1>Welcome! I'm [kennyblue]</hi>
 
     <div class="section">
         <h2>About Me</h2>
